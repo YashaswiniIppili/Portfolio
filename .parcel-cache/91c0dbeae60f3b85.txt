@@ -79,7 +79,7 @@
 95C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\regions\NA.js133450520695135575 0
 92C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\vanilla-tilt\test\index.html133450520650406228 0
 88C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\weak-lru-cache\README.md133450520655581962 0
-55C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist133450522777244501 1
+55C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist133450529050080157 1
 93C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\bootstrap\js\dist\dom\data.js133450520672274657 0
 94C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\csso\node_modules\css-tree\cjs133450520677401054 1
 95C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\csso\cjs\replace\Percentage.cjs133450520665875300 0
@@ -204,7 +204,7 @@
 76C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\lmdb\keys.js133450520677886495 0
 121C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\index.js133450520666449485 0
 66C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\src\sass\layout133450520511937353 1
-73C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\index.975ef6c8.js133450522777144574 0
+73C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\index.975ef6c8.js133450529049739124 0
 80C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\src\sass\sections\_about.scss133450500590009489 0
 108C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\bootstrap\scss\helpers\_visually-hidden.scss133450520688843195 0
 118C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\core\test\fixtures\custom-targets\package.json133450520682015118 0
@@ -1507,7 +1507,7 @@
 79C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\srcset\index.js133450520649295567 0
 94C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\msgpackr\dist\index.min.js.map133450520667387900 0
 84C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\domhandler\readme.md133450520654751511 0
-73C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\logo.73091252.png133450522777134503 0
+73C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\logo.73091252.png133450529048939116 0
 115C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml133450520674635395 0
 78C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\srcset\license133450520648463288 0
 105C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\features\css-nesting.js133450520681905189 0
@@ -1870,7 +1870,7 @@
 106C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\posthtml-parser\dist\location-tracker.d.ts133450520656457558 0
 110C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\features\meta-theme-color.js133450520694371829 0
 119C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\css-select\node_modules\domhandler\lib\esm\package.json133450520654681448 0
-70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\6.d72d103f.png133450522777224441 0
+70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\6.d72d103f.png133450529049149236 0
 100C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\popper.js\src\utils\getOuterSizes.js133450521358729621 0
 91C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\jquery\src\manipulation\var133450520675721405 1
 82C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\logger\lib133450520649485809 1
@@ -3522,7 +3522,7 @@
 100C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\features\jpegxl.js133450520692200703 0
 96C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\transformer-json\LICENSE133450520648675647 0
 101C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\csso\node_modules\css-tree\cjs\walker133450520670824047 1
-73C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\assets\resume.pdf133450522777164505 0
+73C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\assets\resume.pdf133450529049079148 0
 110C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\csso\node_modules\css-tree\cjs\utils\clone.cjs133450520661777668 0
 124C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\csso\node_modules\css-tree\cjs\utils\create-custom-error.cjs133450520662823626 0
 110C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\csso\node_modules\css-tree\cjs\utils\ident.cjs133450520668741585 0
@@ -4025,7 +4025,7 @@
 97C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\css-tree\cjs\syntax\node\Hash.cjs133450520669221599 0
 103C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\css-tree\cjs\syntax\node\IdSelector.cjs133450520669511588 0
 109C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\features\input-inputmode.js133450520691580860 0
-74C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\index.4a508c1d.css133450522777154597 0
+74C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\index.4a508c1d.css133450529048949116 0
 107C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\css-tree\cjs\syntax\node\index-generate.cjs133450520669692988 0
 95C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\css-select\lib\esm\general.d.ts133450520672748488 0
 113C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\css-tree\cjs\syntax\node\index-parse-selector.cjs133450520669788423 0
@@ -4406,7 +4406,7 @@
 82C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\chalk\package.json133450520653311784 0
 86C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\README.md133450520702961097 0
 85C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\dist\lib133450520699281576 1
-70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\3.f6f91060.png133450522777174453 0
+70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\3.f6f91060.png133450529049049473 0
 95C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\regions\BW.js133450520673994504 0
 117C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@popperjs\core\lib\dom-utils\getComputedStyle.js.flow133450520675362818 0
 102C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\dist\unpacker\browsers.js133450520673266701 0
@@ -4419,7 +4419,7 @@
 102C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\dist\unpacker\features.js133450520688207491 0
 99C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\dist\unpacker\index.js133450520691294624 0
 100C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\dist\unpacker\region.js133450520697292140 0
-77C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\index.975ef6c8.js.map133450522777224441 0
+77C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\index.975ef6c8.js.map133450529049769128 0
 89C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\utils\src\path.js133450520669722998 0
 91C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\agents.js133450520659461386 0
 100C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\browserVersions.js133450520673427869 0
@@ -4678,7 +4678,7 @@
 103C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\packager-css\src\CSSPackager.js133450520651511918 0
 97C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@popperjs\core\dist\umd\popper.js133450520671384966 0
 112C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\features\css-color-function.js133450520678597064 0
-66C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\index.html133450522777134503 0
+66C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\index.html133450529050070154 0
 109C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@swc\helpers\_\_class_apply_descriptor_update133450520682555297 1
 115C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\features\css-container-queries.js133450520678728566 0
 119C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\features\css-container-query-units.js133450520678778295 0
@@ -4986,7 +4986,7 @@
 122C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\convertor133450520670165245 1
 103C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\utils\test\PromiseQueue.test.js133450520670336409 0
 98C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\features\woff.js133450520702567486 0
-78C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\index.4a508c1d.css.map133450522777224441 0
+78C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\index.4a508c1d.css.map133450529049099198 0
 109C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\features\x-doc-messaging.js133450520702688267 0
 94C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@swc\helpers\src\_defaults.mjs133450520689979006 0
 98C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\caniuse-lite\data\features\xhr2.js133450520702728588 0
@@ -5994,7 +5994,7 @@
 96C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\.bin\download-lmdb-prebuilds.cmd133450521359749690 0
 113C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js133450520655707532 0
 113C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133450520656633020 0
-62C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\assets133450522777184619 1
+62C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\assets133450529049129158 1
 94C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\node-resolver-core\lib133450520653747850 1
 108C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\source-map\parcel_sourcemap_node\src133450520674394415 1
 115C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133450520674464462 0
@@ -6866,8 +6866,8 @@
 75C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\.bin\semver133450521359809685 0
 79C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\.bin\semver.cmd133450521359809685 0
 77C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\node_modules\.bin\svgo.cmd133450521359799746 0
-70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\1.62e19b7e.png133450522777184619 0
-70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\2.a8edc462.png133450522777174453 0
-70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\4.a767498c.png133450522777164505 0
-70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\5.4736e8e7.png133450522777174453 0
-86C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\yashaswini_ippili.0b15e71e.jpg133450522777144574 0
+70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\1.62e19b7e.png133450529049099198 0
+70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\2.a8edc462.png133450529049039310 0
+70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\4.a767498c.png133450529049039310 0
+70C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\5.4736e8e7.png133450529049049473 0
+86C:\Users\yasha\OneDrive\Documents\Sahita\portfolio\dist\yashaswini_ippili.0b15e71e.jpg133450529048989119 0
